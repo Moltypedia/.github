@@ -2,7 +2,6 @@
 name: Task
 about: A single piece of work; usually a sub-issue of a goal
 title: "[Task] "
-labels: ["task"]
 type: Task
 ---
 
