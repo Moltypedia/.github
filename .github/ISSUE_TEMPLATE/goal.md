@@ -3,6 +3,7 @@ name: Goal
 about: A bigger objective that breaks down into task sub-issues
 title: "[Goal] "
 labels: ["goal"]
+type: Goal
 ---
 
 ## What does done look like?
